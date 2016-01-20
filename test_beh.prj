@@ -1,0 +1,3 @@
+vhdl work "ipcore_dir/bram.vhd"
+vhdl work "control.vhd"
+vhdl work "test.vhd"

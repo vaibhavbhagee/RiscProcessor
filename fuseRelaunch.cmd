@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/IIT SEM3/COL215/lab12/risc_processor_new/test_isim_beh.exe" -prj "D:/IIT SEM3/COL215/lab12/risc_processor_new/test_beh.prj" "work.test" 
